@@ -1,1 +1,2 @@
-token: '{cipher}da13f45b030daddfdb3295a64e6205399be051faca17dbd804ed0d2edfe970d'
+server:
+  port: 8081
